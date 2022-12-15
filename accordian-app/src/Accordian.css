@@ -1,0 +1,13 @@
+.bold{
+    background-color: blueviolet;
+    padding: 10px;
+    width: 60px;
+    height: 30px;
+    transform: translateX(530px);
+    color: white;
+    border-radius: 10px;
+    
+    text-align: center;
+
+
+}
